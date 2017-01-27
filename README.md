@@ -1,5 +1,6 @@
 NLA Staff Spreadsheet Importer Plugin
 =====================================
+Harvard fork of the importer, to support other fields in the "Arrearage"
 
 An ArchivesSpace (v1.5.2) plugin developed for the National Library of Australia by Hudson Molonglo.
 
